@@ -1,2 +1,4 @@
-# Buildingsurvey
-Building Survey Management System is a web-enabled system that makes it easy to create, manage, and publish expert surveys.
+# moxxconstruction
+Moxx.co.ke Construction website. It encompasses marketing and ways through which clients can reach Moxx organization. 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6db942dc-e636-4f7f-9c1e-aaeac693e0be/deploy-status)](https://app.netlify.com/sites/moxx/deploys)
